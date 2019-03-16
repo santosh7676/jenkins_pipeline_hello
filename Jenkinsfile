@@ -8,7 +8,6 @@ node {
         echo "testing"
     }
 }
-}
 node {
     stage('verify'){
         echo "Santosh M"
